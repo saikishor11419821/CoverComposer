@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Music Composer AI",
+  "description": "An advanced AI-powered music composition engine that generates detailed musical blueprints including chord progressions, melodies, drum patterns, and instrumentations using Gemini 3.",
+  "requestFramePermissions": []
+}
